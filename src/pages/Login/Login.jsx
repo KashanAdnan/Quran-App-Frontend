@@ -14,7 +14,7 @@ const Login = () => {
     const navigate = useNavigate()
     const handleSubmit = (e) => {
         e.preventDefault();
-        axios.post("http://localhost:3000/api/v1/login", { email, password }).then(async (res) => {
+        axios.post("https://quran-app-backend.vercel.app/api/v1/login", { email, password }).then(async (res) => {
             toast.success("Login Successfully!");
             setCookie("token", res.data.token, { expires: new Date(Date.now() + 600000), })
             navigate("/")

@@ -39,8 +39,8 @@ const Footer = () => {
                 <div className="col col-4">
                     <h1>CONTACT</h1>
                     <ul>
-                        <li><i className="fa-solid fa-envelope"></i>info@wasifbinasif.com</li>
-                        <li><i className="fa-solid fa-phone"></i>+92 331 3633434</li>
+                        <li><i className="fa-solid fa-envelope"></i>infowasifbinasif@gmail.com</li>
+                        <li><i className="fa-solid fa-phone"></i>+92 316 2032112</li>
                     </ul>
                 </div>
             </div>

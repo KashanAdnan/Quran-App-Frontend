@@ -14,7 +14,7 @@ const Register = () => {
     const navigate = useNavigate()
     const handleSubmit = (e) => {
         e.preventDefault();
-        axios.post("http://localhost:3000/api/v1/register", { name, phone, email, password }).then((res) => {
+        axios.post("https://quran-app-backend.vercel.app/api/v1/register", { name, phone, email, password }).then((res) => {
             toast.success("Register Successfully!")
             setInterval(() => {
                 navigate("/login")

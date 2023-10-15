@@ -19,24 +19,18 @@ const Student = () => {
               "Enrolling in the Wasif Bin Asif quran institute was the best decision I made. The interactive classes, comprehensive curriculum, and supportive community have helped me grow spiritually and intellectually."
             </i>
             </p>
-            <img src="https://alsafaaquran.com/wp-content/uploads/2023/07/arabic-businessman-traditional-wear-sitting-table-with-laptop-computer-happy-positive-smiling-showing-thumbs-up-working-office-min-scaled.jpg"
-              alt="" />
-            <h1>Hamzah</h1>
           </div>
         </SwiperSlide>
         <SwiperSlide>
           <div className="students-container">
             <p><i>
-              "I highly recommend the Al Safaa quran institute. Their dedicated teachers provide
+              "I highly recommend the Wasif Bin Asif quran institute. Their dedicated teachers provide
               personalized
               guidance, fostering a nurturing environment that enhances both my knowledge and love for
               the
               Quran."
             </i>
             </p>
-            <img src="https://alsafaaquran.com/wp-content/uploads/2023/07/manaff.jpg"
-              alt="" />
-            <h1>Aliful Hamzah</h1>
           </div>
         </SwiperSlide>
       </Swiper>

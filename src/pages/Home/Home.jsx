@@ -15,7 +15,7 @@ const Home = () => {
   const [cookies, setCookie, removeCookie] = useCookies(['token']);
   const [user, setUser] = useState({})
   const getData = () => {
-    axios.get("http://localhost:3000/api/v1/profile/" + cookies?.token).then((res) => {
+    axios.get("https://quran-app-backend.vercel.app/api/v1/profile/" + cookies?.token).then((res) => {
       setUser(res.data)
     }).catch((err) => {
       console.log("Logout");
