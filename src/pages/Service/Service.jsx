@@ -31,7 +31,7 @@ const Service = () => {
           <h3>Service</h3>
           <h1>Serving Humanity</h1>
           <img src={line} alt="" />
-          <p>Al Safaa quran institute has different Quranic and Islamic courses on offer depending upon your requirements. Quran Learn Academy has got expert Quran teachers, both male and female for women and children, with fluency in the English language. These highly qualified Online Quran Tutors in UK take their students step by step to learn tajweed Quran word by word. We understand that not everyone has the same learning capability. Therefore, our Quran teachers work at a pace that matches each and every one of our student’s learning ability, enabling them to learn the recitation of Quran comprehensively.</p>
+          <p>Wasif Bin Asif quran institute has different Quranic and Islamic courses on offer depending upon your requirements. Quran Learn Academy has got expert Quran teachers, both male and female for women and children, with fluency in the English language. These highly qualified Online Quran Tutors in UK take their students step by step to learn tajweed Quran word by word. We understand that not everyone has the same learning capability. Therefore, our Quran teachers work at a pace that matches each and every one of our student’s learning ability, enabling them to learn the recitation of Quran comprehensively.</p>
         </div>
         <div className="right-side-service">
           <img className='fixed' src="https://alsafaaquran.com/wp-content/uploads/2023/07/bg-pattern.png" alt="" />
